@@ -1,3 +1,4 @@
+# Mostly unsupervised phoneme segmentation; requires number of segments as input
 # Based on this Qiao et. al. 2008 paper (http://www.gavo.t.u-tokyo.ac.jp/~qiao/publish/SegPhoneme_SP08.pdf)
 
 import numpy as np  # for vector/matrix math
