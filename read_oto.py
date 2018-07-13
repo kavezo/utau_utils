@@ -1,3 +1,5 @@
+# parses Japanese VCV oto.ini files into midi-type event lists
+# still rather buggy and messy
 # input: oto.ini; output: {filename: ([(phoneme, time)],[(pitch, time)],[(style, time)])}
 # three formats - syllable on time only, phoneme on time only, triphone+basic labels
 
